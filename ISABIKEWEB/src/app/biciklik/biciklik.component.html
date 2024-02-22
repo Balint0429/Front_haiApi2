@@ -1,0 +1,22 @@
+<!-- biciklik.component.html -->
+<div class="container mt-3">
+
+  <div class="row mt-4">
+    <div class="col-md-3 mb-4" *ngFor="let termek of dataSource.data; let i = index">
+      <div class="card">
+        <img *ngIf="termek.kep" [src]="termek.kep" class="card-img-top img-fluid termek-image-home" alt="Termék Kép">
+        <div class="card-body">
+          <h5 class="card-title">{{ termek.termek_nev }}</h5>
+          <p class="card-text">Kategória: {{ termek.termek_kateg }}</p>
+          <p class="card-text">Gyártó ID: {{ termek.gyarto_id }}</p>
+          <p class="card-text">Készlet Mennyiség: {{ termek.raktarondb }}</p>
+          <p class="card-text">Súly: {{ termek.tomeg_erteke }} kg</p>
+          <p class="card-text">Szín: {{ termek.szine }}</p>
+          <p class="card-text">Leírás: {{ termek.leiras }}</p>
+          <p class="card-text">Ár: {{ termek.egyseg_ar}}Ft</p>
+          <p class="card-text">Elérhetőség: {{ termek.elerheto ? 'Elérhető' : 'Nem Elérhető' }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

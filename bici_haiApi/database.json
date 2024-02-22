@@ -1,0 +1,117 @@
+{
+    "termekek": [
+      {
+        "termek_id": 1,
+        "termek_kateg": 10000000,
+        "termek_nev": "Mountain bike",
+        "gyarto_id": 1,
+        "kep": "https://cdn.pixabay.com/photo/2013/10/03/23/19/bike-190483_1280.jpg",
+        "raktarondb": 1,
+        "tomeg_tulajdonsaga_id": 1,
+        "tomeg_erteke": 2.5,
+        "szine": "Piros",
+        "leiras": " Vonzó piros színű kismotor gyors közlekedéshez.",
+        "egyseg_ar": 500,
+        "elerheto": true
+      },
+      {
+        "termek_id": 2,
+        "termek_kateg": 10000000,
+        "termek_nev": "Ezüst trekking kerékpár",
+        "gyarto_id": 1,
+        "kep": "https://cdn.pixabay.com/photo/2016/09/09/22/40/bike-1658214_1280.jpg",
+        "raktarondb": 3,
+        "tomeg_tulajdonsaga_id": 1,
+        "tomeg_erteke": 3.3,
+        "szine": "Kék",
+        "leiras": "Trekking kerékpár elegáns ezüst színben.",
+        "egyseg_ar": 500,
+        "elerheto": true
+      },
+      {
+        "termek_id": 3,
+        "termek_kateg": 10000000,
+        "termek_nev": "BMX",
+        "gyarto_id": 1,
+        "kep": "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_1280.jpg",
+        "raktarondb": 1,
+        "tomeg_tulajdonsaga_id": 1,
+        "tomeg_erteke": 2.0,
+        "szine": "Zöld",
+        "leiras": "Eredetéről ne kérdezenek, de még jó állapotba van ",
+        "egyseg_ar": 500,
+        "elerheto": true
+      },
+      {
+        "termek_id": 4,
+        "termek_kateg": 10000000,
+        "termek_nev": "Lila bicigli",
+        "gyarto_id": 1,
+        "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cykel.JPG/1024px-Cykel.JPG",
+        "raktarondb": 1,
+        "tomeg_tulajdonsaga_id": 1,
+        "tomeg_erteke": 2.0,
+        "szine": "lila",
+        "leiras": "lopot",
+        "egyseg_ar": 500,
+        "elerheto": true
+      },
+      {
+        "termek_id": 5,
+        "termek_kateg": 10000001,
+        "termek_nev": "Sárga kerékpár",
+        "gyarto_id": 2,
+        "kep": "",
+        "raktarondb": 2,
+        "tomeg_tulajdonsaga_id": 2,
+        "tomeg_erteke": 2.5,
+        "szine": "Sárga",
+        "leiras": "Kényelmes és strapabíró sárga kerékpár.",
+        "egyseg_ar": 700,
+        "elerheto": true
+      },
+      {
+        "termek_id": 6,
+        "termek_kateg": 10000001,
+        "termek_nev": "Original mountain bike",
+        "gyarto_id": 2,
+        "kep": "https://cdn.pixabay.com/photo/2016/02/22/10/47/mountain-biking-1216259_1280.jpg",
+        "raktarondb": 5,
+        "tomeg_tulajdonsaga_id": 3,
+        "tomeg_erteke": 12.0,
+        "szine": "Fekete",
+        "leiras": "Igazi terep bringa, kiváló minőségű fekete színben.",
+        "egyseg_ar": 1200,
+        "elerheto": true
+      },
+      {
+        "termek_id": 7,
+        "termek_kateg": 10000001,
+        "termek_nev": "Piros kismotor",
+        "gyarto_id": 3,
+        "kep": "https://cdn.pixabay.com/photo/2016/12/11/12/26/motorcycle-1902539_1280.jpg",
+        "raktarondb": 3,
+        "tomeg_tulajdonsaga_id": 2,
+        "tomeg_erteke": 4.0,
+        "szine": "Piros",
+        "leiras": "Vonzó piros színű kismotor gyors közlekedéshez.",
+        "egyseg_ar": 900,
+        "elerheto": true
+      },
+      {
+        "termek_id": 8,
+        "termek_kateg": 10000002,
+        "termek_nev": "Elegáns női kerékpár",
+        "gyarto_id": 4,
+        "kep": "https://cdn.pixabay.com/photo/2015/09/18/18/58/bicycle-944353_1280.jpg",
+        "raktarondb": 2,
+        "tomeg_tulajdonsaga_id": 1,
+        "tomeg_erteke": 3.0,
+        "szine": "Rózsaszín",
+        "leiras": "Stílusos rózsaszín kerékpár elegáns nőknek.",
+        "egyseg_ar": 950,
+        "elerheto": true
+      }
+    ]
+  }
+  
