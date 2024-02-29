@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent {
-  brands = [
+  markak = [
     'brand1.jpg',
     'brand2.jpg',
     'brand3.jpg',
